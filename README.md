@@ -1,7 +1,6 @@
-[![MasterHead](https://png.pngtree.com/background/20230617/original/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.jpg)](https://naledikhumalo.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif)](https://naledikhumalo.io)
 <h1 align="center">Hi 👋, I'm Naledi</h1>
 <h3 align="center">I'm passionate about data analytics</h3>
-<img align"right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
 
