@@ -1,6 +1,10 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif)](https://naledikhumalo.io)
 <h1 align="center">Hi 👋, I'm Naledi</h1>
-<h3 align="center">I'm passionate about data analytics</h3>
+<h3 align="left">I'm passionate about data analytics and love uncovering insights that drive decision-making. I thrive on learning and applying new technologies, especially in the rapidly evolving fields of Artificial Intelligence (AI) and Generative AI.
+<br><br>
+I continuously seek opportunities to expand my knowledge and contribute to impactful projects. Whether it's working with data to discover patterns or exploring the potential of AI to solve complex problems, I am always up for a challenge.
+<br><br>
+Feel free to explore my repositories and connect with me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
 
