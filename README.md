@@ -1,16 +1,10 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/0*tD5kEC2JYcKHH0zO.gif)](https://naledikhumalo.io)
+[![MasterHead](https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://naledikhumalo.io)
 <h1 align="center">Hi 👋, I'm Naledi</h1>
-<h3 align="left">I'm passionate about data analytics and love uncovering insights that drive decision-making. I thrive on learning and applying new technologies, especially in the rapidly evolving fields of Artificial Intelligence (AI) and Generative AI.
+<h3 align="left">I'm passionate about technology and love leveraging innovation to solve real-world problems. I enjoy working with data analytics and building efficient systems, and I thrive on learning and applying new technologies. The rapid pace of tech evolution always keeps me excited and eager to expand my skills.
 <br><br>
-I continuously seek opportunities to expand my knowledge and contribute to impactful projects. Whether it's working with data to discover patterns or exploring the potential of AI to solve complex problems, I am always up for a challenge.
-<br><br>
-Feel free to explore my repositories and connect with me!</h3>
+From coding solutions to uncovering data-driven insights, I'm constantly seeking opportunities to grow and contribute to impactful projects. Explore my repositories and feel free to connect with me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naledikhumalo&label=Profile%20views&color=0e75b6&style=flat" alt="naledikhumalo" /> </p>
-
-- 🌱 I’m currently learning **Apache Spark**
-
-- 💬 Ask me about **Java, Python, SQL, Excel, R, MS Power BI**
 
 - 📫 How to reach me **nalediletseka@gmail.com**
 
